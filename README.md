@@ -1,6 +1,6 @@
 # Multi-View-Co-Teaching-Network
 
-This repository contains the source code for the CIKM 2020 paper **Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network**
+This repository contains source code for Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Networks
 
 ## Directory
 
